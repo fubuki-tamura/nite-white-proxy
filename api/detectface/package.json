@@ -1,0 +1,28 @@
+{
+  "name": "nite-white-proxy",
+  "version": "0.0.1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "restler": "~3.2.2",
+    "restify": "~2.8.1",
+    "xml2json": "~0.4.0"
+  },
+  "dependencies": {
+    "restler": "~3.2.2",
+    "restify": "~2.8.1",
+    "xml2json": "~0.4.0"
+  },
+  "engines": {
+    "node": "0.10.23",
+    "npm": "1.3.17"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fubuki-tamura/nite-white.git"
+  }
+}
